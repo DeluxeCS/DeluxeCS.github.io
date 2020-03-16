@@ -2,7 +2,4 @@
 test
 feautal test
 123123
-<<<<<<< HEAD
 PPPQQQ
-=======
->>>>>>> dev
